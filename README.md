@@ -1,1 +1,1 @@
-This is CheatSquad, the place for mod menus for every game!
+Im just here to be here :/
