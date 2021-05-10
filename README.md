@@ -1,2 +1,1 @@
-# cheathub.github.io
- GameHub for free games!
+This is CheatSquad, the place for mod menus for every game!
